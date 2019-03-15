@@ -32,3 +32,10 @@ testing env on your mobil device
 1. install xcode on mac and open simulator
 2. create a project, ```brew update```, ```brew install watchman```
 3. download expo XDE on mac
+
+<br><br>
+
+part 3: React Native Components + Stylesheets
+1. components: View, Text, Image, Lists, Scrollviews, Touchables
+2. staet: an object with details about how a ```component``` should render
+3. Props: the properties passed to the constuctor of a component.
