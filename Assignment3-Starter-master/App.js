@@ -3,8 +3,8 @@
 * Assignment 3
 * Starter Files
 *
-* CS47
-* Oct, 2018
+* CS47SI
+* Jan, 2017
 */
 
 import React from 'react';
@@ -12,6 +12,7 @@ import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
 import { Images, Colors } from './App/Themes'
 import APIRequest from './App/Config/APIRequest'
 
+import NavigationButtons from './App/Components/NavigationButtons'
 import News from './App/Components/News'
 import Search from './App/Components/Search'
 
@@ -52,7 +53,9 @@ export default class App extends React.Component {
 
         {/*First, you'll need a logo*/}
 
-        {/*Then your search bar*/}
+        {/*Then your "navigation" vector icons*/}
+
+        {/*A search bar*/}
 
         {/*And some news*/}
 

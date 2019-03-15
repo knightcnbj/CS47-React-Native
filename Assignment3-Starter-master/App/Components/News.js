@@ -3,8 +3,8 @@
 * Assignment 3
 * Starter Files
 *
-* CS47
-* Oct, 2018
+* CS47SI
+* Jan, 2017
 */
 
 import React, { Component } from 'react'
